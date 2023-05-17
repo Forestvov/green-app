@@ -10,6 +10,7 @@ export default defineConfig({
       core: '/src/core',
       api: '/src/api',
       router: '/src/router',
+      hoc: '/src/hoc',
       pages: '/src/pages',
       components: '/src/components',
       utils: '/src/utils'

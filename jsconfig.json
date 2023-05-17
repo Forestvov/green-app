@@ -20,6 +20,7 @@
       "core/*": ["core/*"],
       "api/*": ["api/*"],
       "router/*": ["router/*"],
+      "hoc/*": ["hoc/*"],
       "pages/*": ["pages/*"],
       "components/*": ["components/*"],
       "utils/*": ["utils/*"]
