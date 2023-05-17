@@ -26,11 +26,6 @@ export const AsideNewChat = () => {
   const onSubmit = data => {
     dispatch(addNewChat(data))
     setValue('phone', '')
-    // const body = {
-    //   chatId: `${phone.replace(/[^0-9]/g, '')}@c.us`
-    // }
-
-    // await newChat(JSON.stringify(body))
   }
 
   return (
